@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChrilleReech
+- 👀 I’m interested in electronics, IT and crafts.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on ... No projekts ATM
+- I understand Java, HTML, CSS and JS.
